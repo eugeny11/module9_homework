@@ -1,0 +1,19 @@
+.output {
+	display: flex;
+	flex-wrap: wrap;
+	width: 500px;
+}
+
+.card {
+	margin: 10px;
+}
+
+.input1,
+.input2 {
+	width: 100px;
+	margin-left: 10px;
+}
+
+.button {
+	margin-left: 10px;
+}

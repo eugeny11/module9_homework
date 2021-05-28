@@ -1,0 +1,23 @@
+  
+.output {
+	display: flex;
+	flex-wrap: wrap;
+	width: 500px;
+}
+
+.card {
+	width: 200px;
+	margin: 20px;
+}
+
+.card__img {
+	display: block;
+	width: 200px;
+	height: 150px;
+}
+
+.input__number,
+.input__limit {
+	width: 180px;
+	margin-left: 20px;
+}
